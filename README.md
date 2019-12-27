@@ -1,0 +1,4 @@
+# script_word_frequency_analyzer
+This project is about making a program which can analyze movie scripts and find the repeating frequency of words. User has options of providing a script as a ‘txt’ file or as an url to (Imsdb) a website. After the script input is taken, the program can compare two scripts and sort the first twenty common words, or just find word frequencies based on one file.
+
+The aim of the project is people who has a relation with theatre culture, including writers, critics, actors and actresses and hobbyst. The analization of a script can give the user foresight about the movie. Is it a horror movie which probably has words like die, kill, hell and some swear words? Or is it a comedy movie which has a lot of ‘laughs’ in paranthesis. Also, by comparing two files user can predict how much similar are these films.
